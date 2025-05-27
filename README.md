@@ -3,7 +3,7 @@
 2nd last project for my last exam 2nd semester
 
 The theme is "Hospital Management"
-with and extra file named "dokter.txt", which is using by reading the doctor ID for starting the doctor menu
+and extra file named "dokter.txt", which is using by reading the doctor ID for starting the doctor menu
 
 Also with implementation of some materials:
 1. Pointer
