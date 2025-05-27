@@ -1,0 +1,14 @@
+Nama Dokter : Stephanie 
+ID : STE224
+
+Nama Dokter : Mawar Putri
+ID : MAWP31
+
+Nama Dokter : Jaya Widjoyo
+ID : JWI091
+
+Nama Dokter : Shoko Ieiri
+ID : SHIE542
+
+Nama Dokter : Samuel Adi
+ID : SAM887
