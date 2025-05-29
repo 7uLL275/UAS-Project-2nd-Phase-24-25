@@ -22,7 +22,6 @@ struct pasienPenangan{
     int umur;
     string keluhanPasien;
     string statusMedis;
-    string dokter;
     pasienPenangan* next;
 };
 
